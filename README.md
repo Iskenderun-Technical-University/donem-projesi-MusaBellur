@@ -1,1 +1,1 @@
-Hi there 👋
+Araba Satış Sitesi (Car Sales Website)
