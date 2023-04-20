@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <title>Araba-İSTE</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+
+    <nav>
+        <div class="navbar-left">
+            <a href="#"><img src="https://iste.edu.tr/files/iste_arma.png" alt="İste Logo"><h1> Araba İSTE</h1></a>
+            
+        </div>
+        <div class="navbar-right">
+            <ul>
+                <li><a class="active" href="WebForm2.aspx">Ana Sayfa</a></li>
+                <li class="dropdown"><a href="WebForm1.aspx">Arabalar</a>
+                    <div class="dropdown-content">
+                        <a href="#">Mercedes</a>
+                        <a href="#">BMW</a>
+                        <a href="#">Audi</a>
+                        <a href="#">Toyota</a>
+                    </div>
+                </li>
+                <li><a href="kayıt.html">Kayıt Ol</a></li>
+                <li><a href="giris.html">Giriş Yap</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        <div class="container">
+
+        </div>
+    </asp:ContentPlaceHolder>
+
+
+    </form>
+
+
+</body>
+</html>
+
