@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Araba_Satış_Sitesi")]
+[assembly: AssemblyTitle("arabaSat")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Araba_Satış_Sitesi")]
+[assembly: AssemblyProduct("arabaSat")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a5643444-cbfe-41cf-8d63-89ea67757426")]
+[assembly: Guid("95f6d879-30e3-4049-b634-7db17b5f21f6")]
 
 // Version information for an assembly consists of the following four values:
 //

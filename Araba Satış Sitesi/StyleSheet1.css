@@ -1,0 +1,104 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --primary-color: #252525;
+}
+
+body {
+    background-image: url(https://cdn.bmwblog.com/wp-content/uploads/2023/02/Rolls-Royce-Spectre-testing-in-South-Africa-19.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav {
+    height: 8vh;
+    width: 100%;
+    background-color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position:sticky;
+    z-index: 1;
+    top:0;
+}
+
+    nav a {
+        display: block;
+        color: whitesmoke;
+        padding: .4rem .8rem;
+        text-decoration: none;
+        transition: .5s ease background-color;
+    }
+
+        nav a.active {
+            background-color: rgb(255, 132, 0);
+        }
+
+        nav a:hover:not(.active) {
+            background-color: rgb(232, 169, 12);
+        }
+
+.navbar-left {
+    padding-left: 1rem;
+}
+
+    .navbar-left a {
+        display: flex;
+        align-items: center;
+    }
+
+    .navbar-left h1 {
+        font-size: 2rem;
+        padding-left: .5rem;
+    }
+
+    .navbar-left img {
+        width: 2.5rem;
+    }
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: var(--primary-color);
+    min-width: 130px;
+    z-index: 1;
+}
+
+    .dropdown-content a {
+        padding: .8rem;
+        display: block;
+        font-size: 16px;
+    }
+
+        .dropdown-content a:hover {
+            background-color: rgb(232, 169, 12);
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    margin-top: 3px;
+}
+
+.navbar-right ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.navbar-right li {
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding-right: 1rem;
+}
+
+
+
+@media(max-width: 800px) {
+    body {
+        background-image: url(https://e0.pxfuel.com/wallpapers/238/393/desktop-wallpaper-luxurious-car-black-mercedes-benz.jpg);
+    }
+}
