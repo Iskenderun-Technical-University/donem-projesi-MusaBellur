@@ -1,59 +1,59 @@
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\Araba Satış Sitesi.dll.config
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\Araba Satış Sitesi.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\Araba Satış Sitesi.pdb
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csc.exe
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csc.exe.config
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csc.rsp
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csi.exe
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csi.exe.config
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csi.rsp
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.AppContext.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Console.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.IO.Compression.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Net.Http.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Net.Sockets.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.ValueTuple.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Xml.XPath.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\vbc.exe
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\vbc.exe.config
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\vbc.rsp
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\VBCSCompiler.exe
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\obj\Debug\Araba Satış Sitesi.csproj.AssemblyReference.cache
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\obj\Debug\Araba Satış Sitesi.csproj.CoreCompileInputs.cache
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\obj\Debug\Araba Satış Sitesi.csproj.CopyComplete
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\obj\Debug\Araba Satış Sitesi.dll
-C:\Users\Musa Bellur\Desktop\C# deneme\Araba Satış Sitesi\Araba Satış Sitesi\obj\Debug\Araba Satış Sitesi.pdb
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\arabaSat.dll.config
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\arabaSat.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\arabaSat.pdb
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csc.exe
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csc.exe.config
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csc.rsp
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csi.exe
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csi.exe.config
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\csi.rsp
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.AppContext.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Console.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Net.Http.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\vbc.exe
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\vbc.exe.config
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\vbc.rsp
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\obj\Debug\Araba Satış Sitesi.csproj.AssemblyReference.cache
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\obj\Debug\Araba Satış Sitesi.csproj.CoreCompileInputs.cache
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\obj\Debug\Araba Satış Sitesi.csproj.CopyComplete
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\obj\Debug\arabaSat.dll
+C:\Users\Musa Bellur\source\repos\Araba Satış Sitesi\Araba Satış Sitesi\obj\Debug\arabaSat.pdb

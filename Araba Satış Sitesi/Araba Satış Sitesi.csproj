@@ -69,7 +69,8 @@
   <ItemGroup>
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
-    <Content Include="WebForm2.aspx" />
+    <Content Include="Ana Sayfa.aspx" />
+    <Content Include="ArabaDetay.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -81,12 +82,19 @@
       <DependentUpon>Site1.Master</DependentUpon>
     </Compile>
     <Compile Include="SqlClass.cs" />
-    <Compile Include="WebForm2.aspx.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="Ana Sayfa.aspx.cs">
+      <DependentUpon>Ana Sayfa.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm2.aspx.designer.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="Ana Sayfa.aspx.designer.cs">
+      <DependentUpon>Ana Sayfa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ArabaDetay.aspx.cs">
+      <DependentUpon>ArabaDetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ArabaDetay.aspx.designer.cs">
+      <DependentUpon>ArabaDetay.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
