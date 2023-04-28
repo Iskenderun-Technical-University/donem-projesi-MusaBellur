@@ -34,11 +34,7 @@ nav {
         transition: .5s ease background-color;
     }
 
-        nav a.active {
-            background-color: rgb(255, 132, 0);
-        }
-
-        nav a:hover:not(.active) {
+        nav a:hover {
             background-color: rgb(232, 169, 12);
         }
 
@@ -59,29 +55,6 @@ nav {
     .navbar-left img {
         width: 2.5rem;
     }
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: var(--primary-color);
-    min-width: 130px;
-    z-index: 1;
-}
-
-    .dropdown-content a {
-        padding: .8rem;
-        display: block;
-        font-size: 16px;
-    }
-
-        .dropdown-content a:hover {
-            background-color: rgb(232, 169, 12);
-        }
-
-.dropdown:hover .dropdown-content {
-    display: block;
-    margin-top: 3px;
-}
 
 .navbar-right ul {
     display: flex;

@@ -67,12 +67,12 @@
             </tr>
         </table>
         <br />
-        <asp:DataList ID="DataList2" runat="server" Height="228px" Width="1101px" OnSelectedIndexChanged="DataList2_SelectedIndexChanged">
+        <asp:DataList ID="DataList2" runat="server" Height="230px" Width="1100px" OnSelectedIndexChanged="DataList2_SelectedIndexChanged">
     <ItemTemplate>
         <a href="ArabaDetay.aspx?ArabaID=<%# Eval("ArabaID")%>"><table class="auto-style7">
             <tr>
                 <td class="auto-style23">
-                    <asp:Image ID="Image1" runat="server" Height="117px" Width="281px" ImageUrl='<%# Eval("ArabaFoto1") %>' />
+                    <asp:Image ID="Image1" runat="server" Height="120px" Width="280px" ImageUrl='<%# Eval("ArabaFoto1") %>' />
                 </td>
                 <td class="auto-style20">
                     <asp:Label ID="Label2" runat="server" Text='<%# Eval("MarkaIsmi") %>'></asp:Label>
