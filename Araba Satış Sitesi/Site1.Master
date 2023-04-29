@@ -46,8 +46,8 @@
                 <ul>
                     <li><a href="Ana Sayfa.aspx">Ana Sayfa</a></li>
                     <li><a href="ArabaEkle.aspx">İlan Ver</a></li>
-                    <li><a href="#">Hakkımızda</a></li>
-                    <li><a href="#">İletişim</a></li>
+                    <li><a href="Hakkimizda.aspx">Hakkımızda</a></li>
+                    <li><a href="Iletisim.aspx">İletişim</a></li>
                     <li><a href="kayıt.html">Kayıt Ol</a></li>
                     <li><a href="giris.html">Giriş Yap</a></li>
                 </ul>
