@@ -67,9 +67,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="IlanOnay.aspx" />
     <Content Include="ArabaEkle.aspx" />
+    <Content Include="GirişYap.aspx" />
     <Content Include="Hakkimizda.aspx" />
     <Content Include="Iletisim.aspx" />
+    <Content Include="KategoriDetay.aspx" />
     <Content Include="KayitOl.aspx" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
@@ -77,12 +80,33 @@
     <Content Include="ArabaDetay.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="IlanOnay.aspx.cs">
+      <DependentUpon>IlanOnay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IlanOnay.aspx.designer.cs">
+      <DependentUpon>IlanOnay.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ArabaEkle.aspx.cs">
       <DependentUpon>ArabaEkle.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ArabaEkle.aspx.designer.cs">
       <DependentUpon>ArabaEkle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GirişYap.aspx.cs">
+      <DependentUpon>GirişYap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GirişYap.aspx.designer.cs">
+      <DependentUpon>GirişYap.aspx</DependentUpon>
     </Compile>
     <Compile Include="Hakkimizda.aspx.cs">
       <DependentUpon>Hakkimizda.aspx</DependentUpon>
@@ -97,6 +121,13 @@
     </Compile>
     <Compile Include="Iletisim.aspx.designer.cs">
       <DependentUpon>Iletisim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="KategoriDetay.aspx.cs">
+      <DependentUpon>KategoriDetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KategoriDetay.aspx.designer.cs">
+      <DependentUpon>KategoriDetay.aspx</DependentUpon>
     </Compile>
     <Compile Include="KayitOl.aspx.cs">
       <DependentUpon>KayitOl.aspx</DependentUpon>
@@ -131,6 +162,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Admin.Master" />
     <None Include="packages.config" />
     <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">

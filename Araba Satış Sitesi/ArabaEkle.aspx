@@ -27,16 +27,9 @@
             text-align: left;
             height: 40px;
         }
-        .auto-style18 {
-            font-size: large;
-        }
         .auto-style21 {
             font-size: medium;
             height: 40px;
-        }
-        .auto-style22 {
-            font-size: large;
-            font-weight: bold;
         }
         .auto-style23 {
             font-size: x-large;
@@ -44,7 +37,19 @@
             width: 430px;
             text-align: left;
         }
-        .auto-style24 {
+        .auto-style25 {
+            border: 2px solid #777;
+            border-radius: 10px;
+            outline: none;
+            font-weight: bold;
+            font-size: large;
+        }
+        .auto-style26 {
+            border: 2px solid black;
+            border-radius: 10px;
+            height: 22px;
+            width: 230px;
+            font-size: medium;
             font-weight: bold;
         }
     </style>
@@ -56,68 +61,70 @@
             <tr>
                 <td class="auto-style23"><strong>Ad ve Soyadınızı Giriniz:</strong></td>
                 <td class="auto-style17"><strong>
-                    <asp:TextBox ID="tboxisim" runat="server" CssClass="auto-style24" Height="20px" Width="250px"></asp:TextBox>
+                    <asp:TextBox ID="tboxisim" runat="server" CssClass="auto-style26" Height="30px" Width="250px"></asp:TextBox>
                     </strong></td>
             </tr>
             <tr>
                 <td class="auto-style23"><strong>Araba Markanızı Seçiniz:</strong></td>
                 <td class="auto-style17">
-                    <asp:DropDownList ID="DropDownList1" runat="server" CssClass="auto-style18" Height="30px" Width="250px">
+                    <strong>
+                    <asp:DropDownList ID="DropDownList1" runat="server" CssClass="auto-style26" Height="30px" Width="250px">
                     </asp:DropDownList>
+                    </strong>
                 </td>
             </tr>
             <tr>
                 <td class="auto-style23"><strong>Araba Modelinizi Yazınız:</strong></td>
                 <td class="auto-style17"><strong>
-                    <asp:TextBox ID="tboxModel" runat="server" CssClass="auto-style24" Height="20px" Width="250px"></asp:TextBox>
+                    <asp:TextBox ID="tboxModel" runat="server" CssClass="auto-style26" Height="30px" Width="250px"></asp:TextBox>
                     </strong></td>
             </tr>
             <tr>
                 <td class="auto-style23"><strong>Arabanın Fiyatın:</strong></td>
                 <td class="auto-style17"><strong>
-                    <asp:TextBox ID="tboxFiyat" runat="server" CssClass="auto-style24" Height="20px" Width="250px"></asp:TextBox>
+                    <asp:TextBox ID="tboxFiyat" runat="server" CssClass="auto-style26" Height="30px" Width="250px"></asp:TextBox>
                     </strong></td>
             </tr>
             <tr>
                 <td class="auto-style23"><strong>Araba Yakıt Tipi:</strong></td>
                 <td class="auto-style17"><strong>
-                    <asp:TextBox ID="tboxYakıt" runat="server" CssClass="auto-style24" Height="20px" Width="250px"></asp:TextBox>
+                    <asp:TextBox ID="tboxYakıt" runat="server" CssClass="auto-style26" Height="30px" Width="250px"></asp:TextBox>
                     </strong></td>
             </tr>
             <tr>
                 <td class="auto-style23"><strong>Araba Vites Türü:</strong></td>
                 <td class="auto-style17"><strong>
-                    <asp:TextBox ID="tboxVites" runat="server" CssClass="auto-style24" Height="20px" Width="250px"></asp:TextBox>
+                    <asp:TextBox ID="tboxVites" runat="server" CssClass="auto-style26" Height="30px" Width="250px"></asp:TextBox>
                     </strong></td>
             </tr>
             <tr>
                 <td class="auto-style23"><strong>Araba Fotoğraf Linki:</strong></td>
                 <td class="auto-style17"><strong>
-                    <asp:TextBox ID="tboxFoto" runat="server" CssClass="auto-style24" Height="20px" Width="250px"></asp:TextBox>
+                    <asp:TextBox ID="tboxFoto" runat="server" CssClass="auto-style26" Height="30px" Width="250px"></asp:TextBox>
                     </strong></td>
             </tr>
             <tr>
                 <td class="auto-style23"><strong>İl/İlçe Giriniz:</strong></td>
                 <td class="auto-style17"><strong>
-                    <asp:TextBox ID="tboxKonum" runat="server" CssClass="auto-style24" Height="20px" Width="250px"></asp:TextBox>
+                    <asp:TextBox ID="tboxKonum" runat="server" CssClass="auto-style26" Height="30px" Width="250px"></asp:TextBox>
                     </strong></td>
             </tr>
             <tr>
                 <td class="auto-style23"><strong>İletişim Telefon Numarası:</strong></td>
                 <td class="auto-style21"><strong>
-                    <asp:TextBox ID="tboxTel" runat="server" CssClass="auto-style24" Height="20px" Width="250px"></asp:TextBox>
+                    <asp:TextBox ID="tboxTel" runat="server" CssClass="auto-style26" Height="30px" Width="250px"></asp:TextBox>
                     </strong></td>
             </tr>
             <tr>
                 <td class="auto-style16"><strong>Açıklama Giriniz:</strong></td>
                 <td class="auto-style9"><strong>
-                    <asp:TextBox ID="tboxAciklama" runat="server" CssClass="auto-style22" Height="161px" TextMode="MultiLine" Width="648px"></asp:TextBox>
+                    <asp:TextBox ID="tboxAciklama" runat="server" CssClass="auto-style26" Height="160px" TextMode="MultiLine" Width="648px"></asp:TextBox>
                     </strong></td>
             </tr>
             <tr>
                 <td class="auto-style10">&nbsp;</td>
                 <td class="auto-style8"><strong>
-                    <a href="Ana Sayfa.aspx"><asp:Button ID="BtnSend" runat="server" CssClass="auto-style22" Height="53px" OnClick="BtnSend_Click" Text="İlanı Gönder" Width="228px" /></a>
+                    <a href="Ana Sayfa.aspx"><asp:Button ID="BtnSend" runat="server" CssClass="auto-style25" Height="55px" OnClick="BtnSend_Click" Text="İlanı Gönder" Width="228px" /></a>
                     </strong></td>
             </tr>
         </table>

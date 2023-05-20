@@ -49,7 +49,7 @@
                     <li><a href="Hakkimizda.aspx">Hakkımızda</a></li>
                     <li><a href="Iletisim.aspx">İletişim</a></li>
                     <li><a href="KayitOl.aspx">Kayıt Ol</a></li>
-                    <li><a href="giris.html">Giriş Yap</a></li>
+                    <li><a href="GirişYap.aspx">Giriş Yap</a></li>
                 </ul>
             </div>
         </nav>
@@ -67,7 +67,7 @@
                     <ItemTemplate>
                         <div style="border: thin solid #C0C0C0">
                             <strong>
-                                <asp:Label ID="Label1" runat="server" Text='<%# Eval("MarkaIsmi") %>'></asp:Label>
+                                <a href="KategoriDetay.aspx?MarkaID=<%# Eval("MarkaID") %>"><asp:Label ID="Label1" runat="server" Text='<%# Eval("MarkaIsmi") %>'></asp:Label></a>
                                 &nbsp;</strong></div>
                     </ItemTemplate>
                 </asp:DataList>

@@ -20,26 +20,33 @@
         font-size: large;
         height: 27px;
     }
-</style>
+        .auto-style12 {
+            border: 2px solid #777;
+            border-radius: 10px;
+            outline: none;
+            font-weight: bold;
+            font-size: medium;
+        }
+    </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <table class="auto-style7">
     <tr>
         <td class="auto-style8"><strong>E-mail Veya Telefon Numaranızı Giriniz:</strong></td>
         <td class="auto-style9">
-            <asp:TextBox ID="tboxMail" runat="server" Height="40px" Width="300px"></asp:TextBox>
+            <asp:TextBox ID="tboxMail" runat="server" Height="40px" Width="300px" CssClass="tb5"></asp:TextBox>
         </td>
     </tr>
     <tr>
         <td class="auto-style10"><strong>Şifre Giriniz:</strong></td>
         <td class="auto-style11">
-            <asp:TextBox ID="tboxSifre" runat="server" Height="40px" TextMode="Password" Width="300px"></asp:TextBox>
+            <asp:TextBox ID="tboxSifre" runat="server" Height="40px" TextMode="Password" Width="300px" CssClass="tb5"></asp:TextBox>
         </td>
     </tr>
     <tr>
         <td class="auto-style8"><strong></strong></td>
         <td><strong>
-            <asp:Button ID="Button1" runat="server" CssClass="auto-style9" Height="45px" OnClick="Button1_Click" Text="Button" Width="130px" />
+            <asp:Button ID="Button1" runat="server" CssClass="auto-style12" Height="45px" OnClick="Button1_Click" Text="Kayıt Ol" Width="130px" />
             </strong></td>
     </tr>
 </table>

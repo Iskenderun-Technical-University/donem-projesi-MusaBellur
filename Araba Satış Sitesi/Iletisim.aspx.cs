@@ -25,5 +25,10 @@ namespace arabaSat
 
             komutAdd.ExecuteNonQuery();
         }
+
+        protected void tboxMesaj_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

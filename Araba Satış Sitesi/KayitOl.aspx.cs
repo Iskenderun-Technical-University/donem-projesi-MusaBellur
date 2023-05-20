@@ -25,6 +25,11 @@ namespace arabaSat
             komutAdd.Parameters.AddWithValue("@psifre", yeniSifre);
 
             komutAdd.ExecuteNonQuery();
+
+            tboxMail.Text = "";
+            tboxSifre.Text = "";
+
+            Response.Redirect("GirişYap.aspx");
         }
     }
 }
