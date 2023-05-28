@@ -11,14 +11,14 @@
     </asp:ContentPlaceHolder>
     <style type="text/css">
         .auto-style4 {
-            height: auto;
-            width: 1200px;
+            height: 16px;
+            width: 1101px;
             float: left;
         }
         .auto-style6 {
             height: 27px;
         }
-    </style>
+        </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -33,7 +33,6 @@
             <div class="navbar-right">
                 <ul>
                     <li><a href="IlanOnay.aspx">İlan Onaylama </a></li>
-                    <li><a href="">Kategori Ekle </a></li>
                     <li><a href="">Mesajlar </a></li>
                     <li><a href="">Çıkış Yap </a></li>
                 </ul>
@@ -42,9 +41,6 @@
         <br />
             <div style="margin-left: 200px; background-color: lightgrey; opacity:0.8" class="auto-style4">
                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-                    <p>
-                        <br />
-                    </p>
                 </asp:ContentPlaceHolder>
             </div>
         </div>

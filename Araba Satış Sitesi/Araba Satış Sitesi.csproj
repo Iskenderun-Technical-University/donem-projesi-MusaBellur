@@ -71,6 +71,7 @@
     <Content Include="ArabaEkle.aspx" />
     <Content Include="GirişYap.aspx" />
     <Content Include="Hakkimizda.aspx" />
+    <Content Include="IlanOnayDetay.aspx" />
     <Content Include="Iletisim.aspx" />
     <Content Include="KategoriDetay.aspx" />
     <Content Include="KayitOl.aspx" />
@@ -114,6 +115,13 @@
     </Compile>
     <Compile Include="Hakkimizda.aspx.designer.cs">
       <DependentUpon>Hakkimizda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IlanOnayDetay.aspx.cs">
+      <DependentUpon>IlanOnayDetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IlanOnayDetay.aspx.designer.cs">
+      <DependentUpon>IlanOnayDetay.aspx</DependentUpon>
     </Compile>
     <Compile Include="Iletisim.aspx.cs">
       <DependentUpon>Iletisim.aspx</DependentUpon>
