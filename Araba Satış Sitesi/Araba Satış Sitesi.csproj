@@ -75,6 +75,8 @@
     <Content Include="Iletisim.aspx" />
     <Content Include="KategoriDetay.aspx" />
     <Content Include="KayitOl.aspx" />
+    <Content Include="Mesajlar.aspx" />
+    <Content Include="MesajlarDetay.aspx" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
     <Content Include="Ana Sayfa.aspx" />
@@ -143,6 +145,20 @@
     </Compile>
     <Compile Include="KayitOl.aspx.designer.cs">
       <DependentUpon>KayitOl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mesajlar.aspx.cs">
+      <DependentUpon>Mesajlar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mesajlar.aspx.designer.cs">
+      <DependentUpon>Mesajlar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MesajlarDetay.aspx.cs">
+      <DependentUpon>MesajlarDetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MesajlarDetay.aspx.designer.cs">
+      <DependentUpon>MesajlarDetay.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SHA256Class.cs" />

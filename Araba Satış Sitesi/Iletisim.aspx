@@ -80,7 +80,7 @@
             <tr>
                 <td class="auto-style8">&nbsp;</td>
                 <td><strong>
-                    <asp:Button ID="BtnGonder" runat="server" CssClass="auto-style16" Height="50px" OnClick="BtnGonder_Click" Text="Göder" Width="160px" />
+                    <a href="Ana Sayfa.aspx"><asp:Button ID="BtnGonder" runat="server" CssClass="auto-style16" Height="50px" OnClick="BtnGonder_Click" Text="Göder" Width="160px" /></a>
                 </strong></td>
             </tr>
         </table>
