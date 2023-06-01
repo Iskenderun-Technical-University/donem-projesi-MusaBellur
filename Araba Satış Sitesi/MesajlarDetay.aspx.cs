@@ -14,13 +14,21 @@ namespace arabaSat
         SqlClass bgl = new SqlClass();
         protected void Page_Load(object sender, EventArgs e)
         {
-            IletisimID = Request.QueryString["IletisimID"];
+            if (Convert.ToBoolean(Session["Admin"]) == true)
+            {
+                IletisimID = Request.QueryString["IletisimID"];
 
-            SqlCommand komut = new SqlCommand("Select * from TableIletisim where IletisimID = @id", bgl.baglanti());
-            komut.Parameters.AddWithValue("@id", Convert.ToInt32(IletisimID));
-            SqlDataReader oku = komut.ExecuteReader();
-            DataList1.DataSource = oku;
-            DataList1.DataBind();
+                SqlCommand komut = new SqlCommand("Select * from TableIletisim where IletisimID = @id", bgl.baglanti());
+                komut.Parameters.AddWithValue("@id", Convert.ToInt32(IletisimID));
+                SqlDataReader oku = komut.ExecuteReader();
+                DataList1.DataSource = oku;
+                DataList1.DataBind();
+            }
+            else
+            {
+                Response.Redirect("GirişYap.aspx");
+            }
+
         }
     }
 }

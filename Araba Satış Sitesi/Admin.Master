@@ -34,7 +34,7 @@
                 <ul>
                     <li><a href="IlanOnay.aspx">İlan Onaylama </a></li>
                     <li><a href="Mesajlar.aspx">Mesajlar </a></li>
-                    <li><a href="">Çıkış Yap </a></li>
+                    <li><a href="ÇıkışYap.aspx">Çıkış Yap </a></li>
                 </ul>
             </div>
         </nav>

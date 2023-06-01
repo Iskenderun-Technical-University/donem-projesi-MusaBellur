@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ÇıkışYap.aspx" />
     <Content Include="IlanOnay.aspx" />
     <Content Include="ArabaEkle.aspx" />
     <Content Include="GirişYap.aspx" />
@@ -89,6 +90,13 @@
     </Compile>
     <Compile Include="Admin.Master.designer.cs">
       <DependentUpon>Admin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ÇıkışYap.aspx.cs">
+      <DependentUpon>ÇıkışYap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ÇıkışYap.aspx.designer.cs">
+      <DependentUpon>ÇıkışYap.aspx</DependentUpon>
     </Compile>
     <Compile Include="IlanOnay.aspx.cs">
       <DependentUpon>IlanOnay.aspx</DependentUpon>

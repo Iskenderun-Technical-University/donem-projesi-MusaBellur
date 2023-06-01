@@ -14,7 +14,7 @@ namespace arabaSat
         SqlClass bgl = new SqlClass();
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Session.Timeout = 1;
         }
 
         protected void Button1_Click(object sender, EventArgs e)
@@ -32,10 +32,14 @@ namespace arabaSat
             {
                 if(tboxMail.Text == "bellurmusa@gmail.com")
                 {
+                    Session["Admin"] = true;
+                    Session["KullaniciIletisim"] = "bellurmusa@gmail.com";
                     Response.Redirect("IlanOnay.aspx");
                 }
                 else
                 {
+                    Session["User"] = true;
+                    Session["KullaniciIletisim"] = dt.Rows[2].ToString();
                     Response.Redirect("Ana Sayfa.aspx");
                 }
                 

@@ -14,16 +14,23 @@ namespace arabaSat
         SqlClass bgl = new SqlClass();
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Page.IsPostBack == false)
+            if (Convert.ToBoolean(Session["Admin"]) == true)
             {
-                ArabaID = Request.QueryString["ArabaID"];
+                if (Page.IsPostBack == false)
+                {
+                    ArabaID = Request.QueryString["ArabaID"];
 
-                SqlCommand komut = new SqlCommand("Select * from TableCar where ArabaID=@p1", bgl.baglanti());
-                komut.Parameters.AddWithValue("@p1", Convert.ToInt32(ArabaID));
-                SqlDataReader oku = komut.ExecuteReader();
-                DataList1.DataSource = oku;
-                DataList1.DataBind();
+                    SqlCommand komut = new SqlCommand("Select * from TableCar where ArabaID=@p1", bgl.baglanti());
+                    komut.Parameters.AddWithValue("@p1", Convert.ToInt32(ArabaID));
+                    SqlDataReader oku = komut.ExecuteReader();
+                    DataList1.DataSource = oku;
+                    DataList1.DataBind();
 
+                }
+            }
+            else
+            {
+                Response.Redirect("GirişYap.aspx");
             }
         }
         protected void BtnSend_Click(object sender, EventArgs e)
