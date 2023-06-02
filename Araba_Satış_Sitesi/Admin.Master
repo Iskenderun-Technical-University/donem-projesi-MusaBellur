@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="arabaSat.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style4 {
+            height: 16px;
+            width: 1101px;
+            float: left;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <nav>
+            <div class="navbar-left">
+                <a href="IlanOnay.aspx">
+                    <h1><img src="https://iste.edu.tr/files/iste_arma.png" alt="İste Logo"> Araba İSTE Admin</h1>
+                </a>
+
+            </div>
+            <div class="navbar-right">
+                <ul>
+                    <li><a href="IlanOnay.aspx">İlan Onaylama </a></li>
+                    <li><a href="Mesajlar.aspx">Mesajlar </a></li>
+                    <li><a href="ÇıkışYap.aspx">Çıkış Yap </a></li>
+                </ul>
+            </div>
+        </nav>
+        <br />
+            <div style="margin-left: 200px; background-color: lightgrey; opacity:0.8" class="auto-style4">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <br />
+    </form>
+
+</body>
+</html>
